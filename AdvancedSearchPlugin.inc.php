@@ -79,7 +79,7 @@ class AdvancedSearchPlugin extends GenericPlugin {
 					$request->getBaseUrl() . '/' . $this->getStyleSheet(),
 					array(
 							'contexts' => array('frontend')
-						)
+					)
 				);
 			break;
 		}
