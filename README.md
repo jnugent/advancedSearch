@@ -9,7 +9,7 @@ Install and activate this plugin from the plugin gallery in your [OJS](https://g
 Once activated, there will be new fields present on the search results page.
 
 ## License
-This plugin is licensed under the GNU General Public License v2.
+This plugin is licensed under the GNU General Public License v3.
 
 ## Thanks
 This plugin was inspired by the work [created here](https://github.com/nicolols/OJS-3-enhanced-advanced-search).

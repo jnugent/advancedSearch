@@ -39,15 +39,6 @@ class AdvancedSearchPlugin extends GenericPlugin {
 	}
 
 	/**
-	 * Get the name of the settings file to be installed on new press
-	 * creation.
-	 * @return string
-	 */
-	function getContextSpecificPluginSettingsFile() {
-		return $this->getPluginPath() . '/settings.xml';
-	}
-
-	/**
 	 * @copydoc PKPPlugin::getDisplayName()
 	 */
 	function getDisplayName() {
